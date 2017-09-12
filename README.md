@@ -1,2 +1,2 @@
-# SQL_TSQL_Document
-Document SQL Server tables using TSQL to generate an HTML page with Bootstrap 3 to format
+# SQL_Doc_HTML
+A TSQL script that creates an HTML page using Bootstrap to format the result.
